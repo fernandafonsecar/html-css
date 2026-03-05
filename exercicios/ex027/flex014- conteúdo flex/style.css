@@ -24,6 +24,6 @@ header, section.normal {
 }
 section.flex-content {
     padding: 20px;
-    background-color: black;
+    background-color: rgba(156, 156, 156);
 }
 
